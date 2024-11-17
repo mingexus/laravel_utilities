@@ -1,0 +1,14 @@
+{
+    "name": "mingexus/laravel_utilities",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mingexus",
+            "email": "mingexus@gmail.com"
+        }
+    ],
+    "autoload": {},
+    "require": {}
+}
